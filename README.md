@@ -26,7 +26,7 @@ This plugin allows users to showcase their top-selling products in a fully custo
 - **Tools**: Postman, Jira, Linting, PHPUnit, Composer.
 
 ## 🚀 Projects
-Here are some of the notable projects I’ve worked on:
+Here are some of the notable projects he has worked on:
 
 ### [MGH Portal](https://mgh.qs.com)
 A custom WordPress product built from scratch. I developed the entire theme using **Bootstrap**, integrated multiple third-party APIs, and built a custom plugin for enhanced functionality.
