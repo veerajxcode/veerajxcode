@@ -15,16 +15,6 @@ This plugin allows users to showcase their top-selling products in a fully custo
 2)A WordPress theme **NintyNine**, in progress.
 - A **blog** based bootstrap theme which will have advance features like **block patterns**, **custom blocks** etc.
 
-## 🛠️ Tech Stack
-
-### Core Technologies
-- **Languages**: PHP, JavaScript, HTML, CSS, Ajax.
-- **CMS**: WordPress, WooCommerce.
-- **Frameworks/Libraries**: Bootstrap, ReactJS, NodeJS.
-- **API**: RESTful API development and integration.
-- **Version Control**: Git, GitHub.
-- **Tools**: Postman, Jira, Linting, PHPUnit, Composer.
-
 ## 🚀 Projects
 Here are some of the notable projects he has worked on:
 
