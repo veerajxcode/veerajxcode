@@ -13,7 +13,7 @@ Veeraj is a **WordPress Developer** specializing in creating custom plugins and 
 This plugin allows users to showcase their top-selling products in a fully customizable layout, with manual and automated product selection modes, Rest API integration, and real-time updates in the Gutenberg editor.
 
 2)A WordPress theme **NintyNine**, in progress.
-- A **blog** based bootstrap theme which will have advance features like **block patterns**, **custom blocks** etc.
+- A **blog** based theme which will have advance features like **block patterns**, **custom blocks** etc.
 
 ## 🚀 Projects
 Here are some of the notable projects he has worked on:
