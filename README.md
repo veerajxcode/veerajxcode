@@ -8,7 +8,7 @@ Veeraj is a **WordPress Developer** specializing in creating custom plugins and 
 - **Gutenberg Blocks** for seamless integration into the WordPress editor.
 - **WordPress Coding Standards (WPCS)** to ensure clean and maintainable code.
 - **Bootstrap** for responsive and flexible layout design.
-- **PHP Linting** to ensure code quality and performance.
+- **Linting** to ensure code quality and performance.
 
 This plugin allows users to showcase their top-selling products in a fully customizable layout, with manual and automated product selection modes, Rest API integration, and real-time updates in the Gutenberg editor.
 
