@@ -1,6 +1,6 @@
 # Hi there, 👋
 
-Veeraj is a **WordPress Developer** specializing in creating custom plugins and websites tailored to client needs, with a focus on integrating third-party APIs and optimizing WordPress/WooCommerce websites performance. He is passionate about writing clean, efficient, and scalable code following WordPress Coding Standards (WPCS) and best practices. Recently, he has been working with **ReactJS**, **Gutenberg blocks**, **WordPress Coding Standards (WPCS)**, **Bootstrap**, **Linting** to develop custom plugins and themes, while continuing to follow modern WordPress development practices.
+Veeraj is a **WordPress Engineer** specializing in creating custom plugins and websites tailored to client needs, with a focus on integrating third-party APIs and optimizing WordPress/WooCommerce websites performance. He is passionate about writing clean, efficient, and scalable code following WordPress Coding Standards (WPCS) and best practices. Recently, he has been working with **ReactJS**, **Gutenberg blocks**, **WordPress Coding Standards (WPCS)**, **Bootstrap**, **Linting** to develop custom plugins and themes, while continuing to follow modern WordPress development practices.
 
 ## 👨‍💻 Recent Work
 1)He recently developed a custom plugin, **[Choose Your Best Selling Products (CBSP)](https://wordpress.org/plugins/choose-your-best-selling-products/)**, where he learned and implemented:
